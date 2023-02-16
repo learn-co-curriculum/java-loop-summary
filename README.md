@@ -85,7 +85,8 @@ In this lesson, we will learn about when to appropriately use each loop.
 Consider the following universal rules when using loops in programming:
 
 - Use a `for` loop when it is known how many iterations of the loop should run.
-- Use a `do-while` loop when the number of iterations known is at least once.
+- Use a `do-while` loop when it is known that the loop should iterate through at
+  least once.
 - Use a `while` loop when it is not known how many iterations of the loop should
   run.
 
